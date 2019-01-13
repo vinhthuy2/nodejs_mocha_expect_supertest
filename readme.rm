@@ -1,7 +1,8 @@
-<h4>Setup</h4>
-<ul>
-  <li>npm i mocha -g</li>
-  <li>npm i expect --save</li>
-  <li>npm i suptest --save</li>
-  <li>npm i express --save</li>
-</ul>
+Setup
+
+npm i mocha -g   --> test
+npm i expect --save --> to make assertion
+npm i suptest --save --> to test request/express server
+npm i rewire --save --> to wrap a module within require method and others
+npm i express --save --> web server
+
